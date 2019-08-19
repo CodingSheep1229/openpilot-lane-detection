@@ -7,6 +7,8 @@ an end to end lane detection based on openpilot model
 ## Dependency
 1. SNPE
 2. opencv
+3. Eigen (c++)
+4. numpy
 
 
 ## Run
