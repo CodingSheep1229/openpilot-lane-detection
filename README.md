@@ -17,6 +17,11 @@ convert png to yuv raw files
 python convert.py
 ```
 
+run multiple files
+```
+python run.py
+```
+
 run openpilot model
 ```
 snpe-net-run --container driving_model.dlc --input_list data/raw_list.txt
