@@ -1,3 +1,5 @@
 data/
 output/
 results/
+.ipynb_checkpoints/
+utils/.ipynb_checkpoints/
